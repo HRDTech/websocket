@@ -4,7 +4,7 @@ Este es un ejemplo de simple Chat usando WebSocket.
 
 ## Clientes en Flutter y js
 <p align="center">
-    <img src="/App.png" width="480px" height="320px">
+    <img src="/App.png" width="640px" height="420px">
 </p>
 
 ## Getting Started
